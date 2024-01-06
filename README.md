@@ -1,2 +1,2 @@
-# ai-stock-experiment
-Working with AI on a stock predictor
+# OpenAI test
+Working with OpenAI API
